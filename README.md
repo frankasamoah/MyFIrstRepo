@@ -1,1 +1,1 @@
-IU Web Application project
+IU Web Application Development
